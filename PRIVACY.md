@@ -21,4 +21,4 @@ Tutti i dati (movimenti importati, categorie, regole, budget) restano nella memo
 
 ## Contatti
 
-Per domande su questa informativa: gabriele.mazzanti@orangeinformatica.it
+Per domande su questa informativa: gabrielemazzanti04@gmail.com
